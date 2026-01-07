@@ -1,0 +1,6 @@
+# Allow all search engines to crawl all pages
+User-agent: *
+Allow: /
+
+# Direct search engines to your sitemap
+Sitemap: https://aiepex.com/sitemap.xml
